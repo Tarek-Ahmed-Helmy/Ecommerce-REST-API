@@ -9,8 +9,8 @@ This is a fully functional E-commerce API built with Django and Django REST Fram
 
 ### Installation
 1. Clone the repository:
-- git clone https://github.com/yourusername/your-repo-name.git
-- cd your-repo-name
+- git clone https://github.com/Tarek-Ahmed-Helmy/Ecommerce-REST-API.git
+- cd Ecommerce-REST-API
 
 2. Create and activate a virtual environment:
 - python -m venv env
